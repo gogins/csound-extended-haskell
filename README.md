@@ -1,4 +1,4 @@
-# Csound for Haskell and Euterpea
+# csound-extended-haskell
 
 Michael Gogins<br>
 https://github.com/gogins<br>
@@ -15,21 +15,33 @@ of Music, Kulitta, Jazzkell, and relatives.
 
 ## Changes
 
-See https://github.com/gogins/csound-extended/commits/develop for the commit 
-log.
+See https://github.com/gogins/csound-extended-haskell/commits/main for the 
+commit log.
 
 ## License
 
-This code is licensed under the terms of the GNU Library General Public 
-License, version 2.1.
+This file is part of csound-extended-haskell.
+
+This code is free software; you can redistribute it
+and/or modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+csound-extended-haskell is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with Csound; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+02110-1301 USA
 
 ## Installation
 
-To install csound-extended, see the main README.md of csound-extended.
-
-To install the Csound Haskell module, first you must install the Haskell 
-platform, then install Euterpea. I advise also installing the Haskell School 
-of Music, Kulitta, and Jazzkell.
+To install the Csound Haskell module, first you must install the Csound, then 
+the Haskell platform, then install Euterpea. I advise also installing the 
+Haskell School of Music, Kulitta, and Jazzkell.
 
 To do this so that everything works can be tricky. A recent version of all 
 software is advisable. Here is what worked for me. Before you carry out these 
